@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://kangk5g.github.io/chatgpt/chatgpt/sitemap.xml
+Sitemap: https://kangk5g.github.io/chatgpt/sitemap.xml
