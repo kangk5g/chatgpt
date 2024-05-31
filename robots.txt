@@ -1,5 +1,8 @@
+Sitemap: https://www.chatgptgo.cc/sitemap.xml
 
+User-agent: *
+Allow: /
 User-agent:*
 Disallow:
 
-Sitemap: https://kangk5g.github.io/chatgpt/sitemap.xml
+Sitemap: https://www.chatgptgo.cc/sitemap.xml
