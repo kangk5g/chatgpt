@@ -5,4 +5,4 @@ Allow: /
 User-agent:*
 Disallow:
 
-Sitemap: https://www.chatgptgo.cc/sitemap.xml
+Sitemap: https://kangk5g.github.io/chatgpt/chatgpt/sitemap.xml
